@@ -1,0 +1,64 @@
+!!!COM: Fauré, Gabriel
+!!!CDT: 1845/05/12-1924/11/04
+!!!OPR: Dolly Suite
+!!!OPS: 56
+!!!ONM: 1
+!!!OTL: Berceuse
+!!!OMD: Allegretto moderato
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*ICklav	*	*	*ICklav	*	*
+*I"Seconda	*	*	*I"Prima	*	*
+*clefF4	*clefF4	*	*clefG2	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*M2/4	*M2/4	*	*M2/4	*M2/4	*
+=1	=1	=1	=1	=1	=1
+(8EEL	(16G#LL	pp	2r	2r	.
+.	16B	.	.	.	.
+8BB	16e	.	.	.	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	.	.	.
+8BBJ)	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:b:i:t=dolce	!
+(8EEL	(16G#LL	.	2r	2r	.
+.	16B	.	.	.	.
+8BB	16e	.	.	.	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	.	.	.
+8BBJ)	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+(8EEL	(16G#LL	.	4b	4bb	p
+.	16B	.	.	.	.
+8BB	16e	.	.	.	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	[4b	[4bb	.
+8BBJ)	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+(8EEL	(16G#LL	.	8bL]	8bbL]	.
+.	16B	.	.	.	.
+8BB	16e	.	(8g#	(8gg#	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	8a	8aa	.
+8BBJ)	.	.	8bJ	8bbJ	.
+=5	=5	=5	=5	=5	=5
+(8EEL	(16G#LL	.	8g#L	8gg#L	.
+.	16B	.	.	.	.
+8BB	16e	.	8e	8ee	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	8f#	8ff#	.
+8BBJ)	.	.	8g#J)	8gg#J)	.
+=6	=6	=6	=6	=6	=6
+(8EEL	(16G#LL	.	4e	(4ee	.
+.	16B	.	.	.	.
+8BB	16e	.	.	.	.
+.	16c#JJ	.	.	.	.
+8F#	4A) 4d#	.	4r	8b)	.
+8BBJ)	.	.	.	8r	.
+=7	=7	=7	=7	=7	=7
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}{(s3,s4)}
+!!!ENC: Wolfgang Drescher
+!!!END: 2026/05/05
+!!!EEV: 2026/05/05
