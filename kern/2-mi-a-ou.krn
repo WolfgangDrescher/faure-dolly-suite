@@ -11,7 +11,7 @@
 *I"Seconda	*	*	*I"Prima	*	*
 *clefF4	*clefF4	*	*clefG2	*clefG2	*
 *k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*
-*F: *F: *  *F: *F: *
+*F:	*F:	*	*F:	*F:	*
 *M3/4	*M3/4	*	*M3/4	*M3/4	*
 =1	=1	=1	=1	=1	=1
 !	!	!	!	!LO:TX:a:B:t=Allegro vivo	!
@@ -783,5 +783,5 @@
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Julia Grob
-!!!END: 2026/15/05
-!!!EEV: 2026/15/05
+!!!END: 2026/05/15
+!!!EEV: 2026/05/22
